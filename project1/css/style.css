@@ -1,0 +1,30 @@
+.logo {
+	width: 100px;
+}
+
+.small-img {
+	width: 50%;
+}
+
+.bigScreen {
+	width: 100%;
+}
+
+.line {
+	width: 100%;
+	color: gray;
+}
+
+h1 {
+	text-align: left;
+}
+
+h2 {
+	top: 50%;
+	left: 50%;
+}
+
+.languages {
+	font-size: 200%;
+	color: gray;
+}
